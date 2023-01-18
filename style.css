@@ -1,0 +1,26 @@
+h1, h2, p {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    margin: 10px;
+}
+header {
+    background-color: lightblue;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+    margin: 10px;
+}
+a:hover {
+    background-color: darkblue;
+    color: white;
+}
+.card-deck{
+    background-color:lightcyan;
+}
+.card{
+    background-color: lightblue;
+}
+body{
+    background-image: url(hatter.png);
+}
